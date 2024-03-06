@@ -1,0 +1,12 @@
+:root{--first-color:#2F303A;}
+.main-section{
+    background-color: var(--first-color)
+}
+:root{--second-color:#FFFFFF;}
+.header-class{
+    background-color: var(--second-color)
+}
+:root{--third-color:#FFFFFF;}
+.section-class{
+    background-color: var(--third-color);
+}
